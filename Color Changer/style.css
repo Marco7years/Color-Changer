@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: ghostwhite;
+}
+
+button {
+    border-radius: 4x;
+    font-size: 20px;
+}
+
+.navWrapper {
+    display: flex;
+    justify-content: center;
+    color: dodgerblue;
+    box-shadow: 0px 5px 5px 0px cornflowerblue;
+}
+
+.mainWrapper {
+    margin: auto;
+    width: 50%;
+    padding-top: 10%;
+    text-align: center;
+}
+
+.pWrapper {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: black;
+}
